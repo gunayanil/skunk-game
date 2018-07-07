@@ -7,7 +7,7 @@ For details: [Wikipedia](https://en.wikipedia.org/wiki/Pig_(dice_game))
 
 ## Installation
 1. Download or Clone the repository:
-   - Download: Click <span style="background-color:green;color:white;padding:3px;border-radius:5px">Clone or download</span> button at the top-right corner and click Download Zip button.
+   - Download: Click Clone or download button at the top-right corner and click Download Zip button.
    - Clone:`git clone https://github.com/gunayanil/arcade-game.git`
 2. Open index.html file in your favorite browser.
 
@@ -21,7 +21,7 @@ For details: [Wikipedia](https://en.wikipedia.org/wiki/Pig_(dice_game))
 - The first player who reaches the **Final Score** wins the game!
 
 ## Demo / Play Online
-#### [Play Dice Game](https://anilgunay.com/skunk-game)
+#### [Play Game](https://anilgunay.com/skunk-game)
 
 I am sure you will love this funny game when playing with your friend. Good Luck!
 
